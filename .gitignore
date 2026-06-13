@@ -21,7 +21,3 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Project-specific files
-Implementation file from AG.txt
-Interview_Preparation_Guide.md
-📄 AI Resume Analyzer.docx
