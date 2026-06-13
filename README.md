@@ -12,12 +12,6 @@ An **AI-powered Resume Analyzer** built with Python, Streamlit, PyPDF2, and Goog
 
 ---
 
-## 🖥️ Screenshots
-
-Upload a resume → get instant, detailed feedback on a beautiful dark dashboard with animated score rings and glassmorphism cards.
-
----
-
 ## 🏗️ Architecture
 
 ```
